@@ -1,0 +1,109 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+    color: white;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+    animation: fadeInDown 1s ease-out;
+}
+
+.subheading {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+    color: #ccc;
+    animation: fadeIn 2s ease-in-out;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+button {
+    background: #ff6f61;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    font-size: 18px;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background: #ff3b2e;
+}
+
+#response {
+    margin-top: 30px;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 1.1em;
+    white-space: pre-wrap;
+    animation: fadeInUp 1s ease-in-out;
+}
+
+.loader {
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #ff6f61;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin: 20px auto;
+    display: none;
+    animation: spin 1s linear infinite;
+}
+
+/* Animations */
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translateY(-50px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}

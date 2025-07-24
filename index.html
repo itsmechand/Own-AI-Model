@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Local LLM</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Meet My Personal AI Model🚀</h1>
+        <p class="subheading">Enter your question below to get an answer from my locally running LLM <br> powered by Ollama +
+            LLaMA 3.2</p>
+
+        <textarea id="prompt" placeholder="Type your question here..."></textarea>
+        <button onclick="submitPrompt()">Generate Answer</button>
+        <div class="loader" id="loader"></div>
+        <div id="response"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
