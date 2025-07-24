@@ -1,4 +1,4 @@
-# Own AI Model - Local LLM Deployment & Interactive Web UI
+# Own AI Model - Local LLM Deployment
 
 ## Overview
 A privacy-first, cloud-free environment for running and interacting with Large Language Models (LLMs) locally. This project demonstrates both Python and JavaScript integrations with Ollama and LLaMA 3, featuring a modern, responsive web interface and secure, offline AI inference.
@@ -46,6 +46,8 @@ A privacy-first, cloud-free environment for running and interacting with Large L
 ## Connect
 
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- 
+- - **Portfolio**: [Your LinkedIn Profile]((https://itsmechand.github.io/Portfolio2/))
 
 
 
