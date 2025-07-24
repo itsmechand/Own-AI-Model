@@ -46,7 +46,7 @@ A privacy-first, cloud-free environment for running and interacting with Large L
 ## Connect
 
 - **LinkedIn**: [Let's Connect](https://www.linkedin.com/in/your-profile)
-- - **Portfolio**: [My Portfolio](https://itsmechand.github.io/Portfolio2/)
+- **Portfolio**: [My Portfolio](https://itsmechand.github.io/Portfolio2/)
 
 
 
