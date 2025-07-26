@@ -47,6 +47,7 @@ A privacy-first, cloud-free environment for running and interacting with Large L
 
 - **LinkedIn**: [Let's Connect](https://www.linkedin.com/in/your-profile)
 - **Portfolio**: [My Portfolio](https://itsmechand.github.io/Portfolio2/)
+- **Demo**: [Demo Video](https://www.linkedin.com/posts/chandra-gollaprolu_ai-llm-ollama-activity-7354920882005307392-VhFS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9djRIBUy4OVJBC1J6_l3_GocAJJV1FWNI)
 
 
 
